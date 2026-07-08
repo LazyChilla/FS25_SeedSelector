@@ -7,7 +7,7 @@
 ## 🇩🇪 Deutsch
 
 ### Was macht der Mod?
-Seed Selector ersetzt das Standard-Durchklicken der Saatgutsorten (Y-Taste) durch eine übersichtliche, scrollbare Liste. Die Liste öffnet sich direkt am Bildschirm, zeigt alle Früchte der aktuellen Sämaschine alphabetisch sortiert und hebt säbare Früchte oben an. Für jede Frucht ist der Saatzeitraum aus dem Anbaukalender sichtbar.
+Seed Selector ersetzt das Standard-Durchklicken der Saatgutsorten (Y-Taste) durch eine übersichtliche, scrollbare Liste. Die Liste öffnet sich direkt am Bildschirm, zeigt alle Früchte der aktuellen Sämaschine alphabetisch sortiert und zeigt säbare Früchte oben an. Für jede Frucht ist der Saatzeitraum aus dem Anbaukalender sichtbar.
 
 ### Bedienung
 | Aktion | Taste |
