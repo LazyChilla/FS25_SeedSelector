@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="107">
+    <author>LazyChilla</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Seed Selector</en>
+        <de>Seed Selector</de>
+        <fr>Seed Selector</fr>
+        <it>Seed Selector</it>
+        <pt>Seed Selector</pt>
+        <es>Seed Selector</es>
+    </title>
+    <description>
+        <en><![CDATA[Press Y to open a scrollable, sorted seed list while in a sowing machine. Plantable seeds first, then alphabetical. Season calendar shown per seed. Click to select instantly.
+
+⚠ Compatibility: Do NOT use together with "Seed Select" by plutogaming91 (FS25_SeedSelect) — both mods modify the Y-key seed action and will conflict.]]></en>
+        <de><![CDATA[Y-Taste öffnet eine scrollbare Saatgutliste an der Sämaschine. Säbare Früchte zuerst, dann alphabetisch. Saison-Kalender pro Frucht sichtbar. Klick wählt sofort aus.
+
+⚠ Kompatibilität: NICHT zusammen mit "Seed Select" von plutogaming91 (FS25_SeedSelect) verwenden — beide Mods belegen die Y-Taste und kollidieren.]]></de>
+        <fr><![CDATA[Appuyez sur Y pour ouvrir une liste de semences défilante dans le semoir. Les semences plantables apparaissent en premier, puis par ordre alphabétique. Calendrier des saisons affiché par semence. Cliquez pour sélectionner instantanément.
+
+⚠ Compatibilité : N'utilisez PAS ce mod avec "Seed Select" de plutogaming91 (FS25_SeedSelect) — les deux mods modifient l'action de la touche Y et entreront en conflit.]]></fr>
+        <it><![CDATA[Premi Y per aprire un elenco scorrevole di sementi nella seminatrice. Le colture piantabili compaiono per prime, poi in ordine alfabetico. Calendario stagionale mostrato per coltura. Clicca per selezionare immediatamente.
+
+⚠ Compatibilità: NON usare insieme a "Seed Select" di plutogaming91 (FS25_SeedSelect) — entrambi i mod modificano l'azione del tasto Y e causeranno conflitti.]]></it>
+        <pt><![CDATA[Pressione Y para abrir uma lista rolável de sementes na semeadora. Culturas plantáveis aparecem primeiro, depois em ordem alfabética. Calendário de estações exibido por cultura. Clique para selecionar imediatamente.
+
+⚠ Compatibilidade: NÃO use junto com "Seed Select" de plutogaming91 (FS25_SeedSelect) — ambos os mods modificam a ação da tecla Y e causarão conflitos.]]></pt>
+        <es><![CDATA[Pulse Y para abrir una lista desplazable de semillas en la sembradora. Los cultivos plantables aparecen primero, luego en orden alfabético. Calendario de temporada mostrado por cultivo. Haga clic para seleccionar inmediatamente.
+
+⚠ Compatibilidad: NO usar junto con "Seed Select" de plutogaming91 (FS25_SeedSelect) — ambos mods modifican la acción de la tecla Y y entrarán en conflicto.]]></es>
+    </description>
+
+    <iconFilename>icon_SeedSelector.dds</iconFilename>
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="SeedSelector.lua" />
+    </extraSourceFiles>
+
+    <l10n>
+        <text name="seedSelector_title">
+            <en>Select Seed</en>
+            <de>Saatgut wählen</de>
+            <fr>Choisir les semences</fr>
+            <it>Seleziona coltura</it>
+            <pt>Selecionar semente</pt>
+            <es>Seleccionar semilla</es>
+        </text>
+        <text name="seedSelector_notInSeason">
+            <en>not in season</en>
+            <de>nicht in Saison</de>
+            <fr>hors saison</fr>
+            <it>fuori stagione</it>
+            <pt>fora de época</pt>
+            <es>fuera de temporada</es>
+        </text>
+        <text name="seedSelector_allYear">
+            <en>all year</en>
+            <de>ganzjährig</de>
+            <fr>toute l'année</fr>
+            <it>tutto l'anno</it>
+            <pt>o ano todo</pt>
+            <es>todo el año</es>
+        </text>
+    </l10n>
+</modDesc>
